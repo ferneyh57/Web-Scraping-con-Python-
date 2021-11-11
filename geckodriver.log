@@ -1,0 +1,21 @@
+1636606891864	geckodriver	INFO	Listening on 127.0.0.1:55182
+1636606894903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilefwjFE3"
+1636606896314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilefwjFE3\\search.json.mozlz4", (void 0)))
+1636606899871	Marionette	INFO	Listening on port 55192
+1636606900369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/-/es/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/-/es/b/ref=AE_Hero_JumpInCO/?_encoding=UTF8&node=20574825011&pf_rd_r=Q7XF0CYTZM19KNTWJ56E&pf_rd_p=55eeb1f1-7fe5-4586-b04c-2243c4ed97d1&pd_rd_r=631b0d9c-6534-4eb0-b953-0780ccceee09&pd_rd_w=UAOTa&pd_rd_wg=qgShR&ref_=pd_gw_unk line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1636607082903	Marionette	INFO	Stopped listening on port 55192
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636607677781	geckodriver	INFO	Listening on 127.0.0.1:54105
+1636607680789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilelwTMnc"
+1636607682025	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilelwTMnc\\search.json.mozlz4", (void 0)))
+1636607684617	Marionette	INFO	Listening on port 54114
+1636607685123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/-/es/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71uG43j3ZyL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
