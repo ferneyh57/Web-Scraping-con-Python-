@@ -2,6 +2,7 @@
 Scraping en amazon con interface de tkinter
 # Dependencias
 Mozilla firefox https://www.mozilla.org/firefox/download/thanks/ 
+
 Geckodriver manager https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
 
 # Uso
