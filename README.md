@@ -1,5 +1,5 @@
 # Web-Scraping-con-Python-
-Scraping en amazon con interface de tkinter y ejecutable mediante pyinstaller
+Scraping en amazon con interface de tkinter
 # Dependencias
  Geckodriver manager https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
 
