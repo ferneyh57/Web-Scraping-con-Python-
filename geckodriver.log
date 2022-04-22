@@ -1,921 +1,114 @@
-1636606891864	geckodriver	INFO	Listening on 127.0.0.1:55182
-1636606894903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilefwjFE3"
-1636606896314	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilefwjFE3\\search.json.mozlz4", (void 0)))
-1636606899871	Marionette	INFO	Listening on port 55192
-1636606900369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://www.amazon.com/-/es/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.amazon.com/-/es/b/ref=AE_Hero_JumpInCO/?_encoding=UTF8&node=20574825011&pf_rd_r=Q7XF0CYTZM19KNTWJ56E&pf_rd_p=55eeb1f1-7fe5-4586-b04c-2243c4ed97d1&pd_rd_r=631b0d9c-6534-4eb0-b953-0780ccceee09&pd_rd_w=UAOTa&pd_rd_wg=qgShR&ref_=pd_gw_unk line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1636607082903	Marionette	INFO	Stopped listening on port 55192
+1650660795632	geckodriver	INFO	Listening on 127.0.0.1:53473
+1650660798652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileJVEEYc"
+1650660798937	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileJVEEYc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53474/devtools/browser/69a6fae5-0f02-490e-b44f-4bf473b5bbeb
+1650660801160	Marionette	INFO	Listening on port 53500
+Read port: 53500
+1650660801194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/s?k=ram+ddr&ref=nb_sb_noss_1 line 10303 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=ram+ddr&ref=nb_sb_noss_1 line 9906 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=ram+ddr&page=2&ref=nb_sb_noss_1 line 9437 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1650660815210	Marionette	INFO	Stopped listening on port 53500
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
 
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1636607677781	geckodriver	INFO	Listening on 127.0.0.1:54105
-1636607680789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilelwTMnc"
-1636607682025	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilelwTMnc\\search.json.mozlz4", (void 0)))
-1636607684617	Marionette	INFO	Listening on port 54114
-1636607685123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://www.amazon.com/-/es/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71uG43j3ZyL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-console.log: WebExtensions: reset-default-search: starting.
-console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-1636608244151	Marionette	INFO	Stopped listening on port 54114
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
 
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
 
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
 
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
 
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
 
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
 
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
 
-1636608723938	geckodriver	INFO	Listening on 127.0.0.1:54433
-1636608726972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofileaYdZBx"
-1636608728101	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofileaYdZBx\\search.json.mozlz4", (void 0)))
-1636608730593	Marionette	INFO	Listening on port 54441
-1636608730813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://www.amazon.com/-/es/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71uG43j3ZyL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1636608762073	Marionette	INFO	Stopped listening on port 54441
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
 
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
 
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][RJavaScript warning: https://www.amazon.com/s?k=rtx+2060+12gb&i=computers&rh=n%3A284822&page=3&language=es&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1636608076&ref=sr_pg_3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.amazon.com/s?k=rtx+2060+12gb&i=computers&rh=n%3A284822&page=3&language=es&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1636608076&ref=sr_pg_3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1636608822749	Marionette	INFO	Stopped listening on port 51978
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
 
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
 
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
 
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1636608962573	geckodriver	INFO	Listening on 127.0.0.1:60629
-1636608965581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofileMEm7ze"
-1636608966740	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofileMEm7ze\\search.json.mozlz4", (void 0)))
-1636608970083	Marionette	INFO	Listening on port 60639
-1636608970510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://www.amazon.com/s?k=rtx+2060+12gb&i=computers&rh=n%3A284822&page=3&language=es&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1636608076&ref=sr_pg_3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.amazon.com/-/es/GeForce-128-Bit-Soporte-DirectX-incluido/dp/B07ZTXYVMN/ref=sr_1_52?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=rtx+2060+12gb&qid=1636608971&s=pc&sr=1-52 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.amazon.com/s?k=rtx+2060+12gb&i=computers&rh=n%3A284822&page=3&language=es&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1636608076&ref=sr_pg_3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1636609062704	Marionette	INFO	Stopped listening on port 60639
-1636642489864	geckodriver	INFO	Listening on 127.0.0.1:59134
-1636642492878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofileuugKB7"
-1636642494067	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofileuugKB7\\search.json.mozlz4", (void 0)))
-1636642496743	Marionette	INFO	Listening on port 59146
-1636642496813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://www.amazon.com/s?k=rtx+2060+12gb&i=computers&rh=n%3A284822&page=3&language=es&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1636608076&ref=sr_pg_3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1636642549851	Marionette	INFO	Stopped listening on port 59146
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
-1636642666097	geckodriver	INFO	Listening on 127.0.0.1:64060
-1636642669124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilePUp7AN"
-1636642670775	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilePUp7AN\\search.json.mozlz4", (void 0)))
-1636642673551	Marionette	INFO	Listening on port 64072
-1636642674876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://www.amazon.com/s?k=rtx+2060+12gb&i=computers&rh=n%3A284822&page=3&language=es&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1636608076&ref=sr_pg_3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1636642700105	Marionette	INFO	Stopped listening on port 6407163console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-o-remote" "-profile" "C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofileGlBXbv"
-1636642701786	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofileGlBXbv\\search.json.mozlz4", (void 0)))
-1636642706524	Marionette	INFO	Listening on port 57800
-1636642706758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://www.amazon.com/s?k=rtx+2060+12gb&i=computers&rh=n%3A284822&page=3&language=es&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1636608076&ref=sr_pg_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71uG43j3ZyL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
-Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
-mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
-_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:442:22
-urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
-_resurrectSource@resource://devtools/server/actors/thread.js:2091:35
-addAllSources@resource://devtools/server/actors/thread.js:1446:14
-watch@resource://devtools/server/actors/resources/sources.js:52:17
-watchResources@resource://devtools/server/actors/resources/index.js:242:19
-_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:175:24
-addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
-_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:582:24
-receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:496:21
-Line: 670, column: 0
-console.error: ({})
-JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FAILURE: Failed to open input source 'file:///'
-console.log: WebExtensions: reset-default-search: starting.
-console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
-1636670077070	Marionette	INFO	Stopped listening on port 57800
-[Parent 4748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
-1636765125494	geckodriver	INFO	Listening on 127.0.0.1:62555
-1636765127502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62556" "-no-remote" "-profile" "C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilebmAGcX"
-1636765129126	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofilebmAGcX\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:62556/devtools/browser/da27d764-3d54-4d17-aaa0-e55343e02b86
-1636765134010	Marionette	INFO	Listening on port 62562
-1636765134111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://www.amazon.com/s?k=rtx+2060+12gb&i=computers&rh=n%3A284822&page=3&language=es&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1636608076&ref=sr_pg_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1636765148600	Marionette	INFO	Stopped listening on port 62562
 
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
-1636765159820	geckodriver	INFO	Listening on 127.0.0.1:64729
-1636765161828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64730" "-no-remote" "-profile" "C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofileho5h4I"
-1636765163330	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferney\\AppData\\Local\\Temp\\rust_mozprofileho5h4I\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:64730/devtools/browser/787a7be0-0480-4749-b1a6-59b5919db8b2
-1636765169528	Marionette	INFO	Listening on port 64735
-1636765169602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://www.amazon.com/s?k=rtx+2060+12gb&i=computers&rh=n%3A284822&page=3&language=es&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1636608076&ref=sr_pg_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1636765176980	Marionette	INFO	Stopped listening on port 64735
 
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
-
-1642561841251	geckodriver	INFO	Listening on 127.0.0.1:49847
-1642561841751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58453" "-no-remote" "-profile" "/tmp/rust_mozprofileeMwrH6"
-1642561843183	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeMwrH6/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:58453/devtools/browser/e99831fb-487b-4043-aa6a-a3aa738f914c
-1642561847334	Marionette	INFO	Listening on port 42795
-1642561847439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=rtx+2060+12gb&i=computers&rh=n%3A284822&page=3&language=es&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1636608076&ref=sr_pg_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/818LMTcNcGL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1642561946724	Marionette	INFO	Stopped listening on port 42795
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1642561955360	geckodriver	INFO	Listening on 127.0.0.1:50041
-1642561955855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57105" "-no-remote" "-profile" "/tmp/rust_mozprofile5dM2Kv"
-1642561957266	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5dM2Kv/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:57105/devtools/browser/792c5a1c-896d-4c95-a0c4-3acfd5ca15e5
-1642561961722	Marionette	INFO	Listening on port 38717
-1642561961839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=rtx+2060+12gb&i=computers&rh=n%3A284822&page=3&language=es&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1636608076&ref=sr_pg_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1642561973848	Marionette	INFO	Stopped listening on port 38717
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1642567050821	geckodriver	INFO	Listening on 127.0.0.1:44713
-1642567051325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32805" "-no-remote" "-profile" "/tmp/rust_mozprofileaDoXES"
-1642567052230	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaDoXES/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:32805/devtools/browser/364ded8f-3b00-4147-9a7e-4323ad9030fc
-1642567055298	Marionette	INFO	Listening on port 35619
-1642567055447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=2&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=3&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=5&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=6&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=7&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=8&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=9&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=10&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=11&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=12&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=13&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=14&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-Exiting due to channel error.
-Exiting due to channel error.
-Exiting due to channel error.
-1642567281217	geckodriver	INFO	Listening on 127.0.0.1:52917
-1642567281721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58293" "-no-remote" "-profile" "/tmp/rust_mozprofileyxf4Ti"
-1642567282631	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyxf4Ti/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:58293/devtools/browser/8cc2e51e-bc62-4346-8f34-bc64fc7176b1
-1642567285887	Marionette	INFO	Listening on port 34983
-1642567286008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1&page=2 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=3&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1642567315933	Marionette	INFO	Stopped listening on port 34983
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1642567385723	geckodriver	INFO	Listening on 127.0.0.1:33597
-1642567386226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45031" "-no-remote" "-profile" "/tmp/rust_mozprofileEpv8YD"
-1642567387136	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEpv8YD/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:45031/devtools/browser/dade85be-3a69-4031-aaba-16ef0e1a1272
-1642567391252	Marionette	INFO	Listening on port 33547
-1642567391286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1642567405876	Marionette	INFO	Stopped listening on port 33547
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-1642567495539	geckodriver	INFO	Listening on 127.0.0.1:41733
-1642567496042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49191" "-no-remote" "-profile" "/tmp/rust_mozprofilevqgrHJ"
-1642567497009	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevqgrHJ/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:49191/devtools/browser/9f0d44da-4926-4b4e-a709-d9d322a8fc5e
-1642567500802	Marionette	INFO	Listening on port 35853
-1642567500904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1642567519773	Marionette	INFO	Stopped listening on port 35853
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-1642567624600	geckodriver	INFO	Listening on 127.0.0.1:51279
-1642567625097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58595" "-no-remote" "-profile" "/tmp/rust_mozprofilerIFYUx"
-1642567626039	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerIFYUx/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:58595/devtools/browser/e19f3cbb-74a5-4829-82a9-be376cb55554
-1642567629196	Marionette	INFO	Listening on port 37699
-1642567629266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=Ram+ddr4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=Ram+ddr4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1642567650663	Marionette	INFO	Stopped listening on port 37699
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-1642567899546	geckodriver	INFO	Listening on 127.0.0.1:33671
-1642567900050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33157" "-no-remote" "-profile" "/tmp/rust_mozprofileahDTJx"
-1642567901016	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileahDTJx/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:33157/devtools/browser/c0307b63-bfb3-44a4-836d-8f3c8b0e223d
-1642567904181	Marionette	INFO	Listening on port 40163
-1642567904267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642567972770	geckodriver	INFO	Listening on 127.0.0.1:45955
-1642567973274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48621" "-no-remote" "-profile" "/tmp/rust_mozprofileiX1l8l"
-1642567974298	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiX1l8l/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:48621/devtools/browser/5ac28d3a-32a9-42e7-98a5-de060c9fd1c0
-1642567977427	Marionette	INFO	Listening on port 41209
-1642567977533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642568000211	Marionette	INFO	Stopped listening on port 41209
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1642568003805	Marionette	INFO	Stopped listening on port 40163
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1642568054598	geckodriver	INFO	Listening on 127.0.0.1:60817
-1642568055111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50409" "-no-remote" "-profile" "/tmp/rust_mozprofile5y6dMr"
-1642568056955	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5y6dMr/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:50409/devtools/browser/0071c3ca-f48c-475c-b536-c5fb70b69fb0
-1642568061110	Marionette	INFO	Listening on port 34145
-1642568061177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642568177283	geckodriver	INFO	Listening on 127.0.0.1:58249
-1642568177788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45267" "-no-remote" "-profile" "/tmp/rust_mozprofileR3MuEB"
-1642568178732	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR3MuEB/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:45267/devtools/browser/83544269-e408-4d6e-af44-0ce80f8bbafe
-1642568181558	Marionette	INFO	Listening on port 38331
-1642568181674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&page=2&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&page=3&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&page=4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1642568228475	Marionette	INFO	Stopped listening on port 38331
-1642568330606	Marionette	INFO	Stopped listening on port 34145
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-console.error: services.settings: 
-  security-state/intermediates Signature failed  Error: Shutdown, aborting read-only worker requests.
-console.error: services.settings: 
-  Message: Error: Shutdown, aborting read-only worker requests.
-  Stack:
-    _abortCancelableRequests@resource://services-settings/RemoteSettingsWorker.jsm:143:19
-@resource://services-settings/RemoteSettingsWorker.jsm:219:28
-trigger@resource://gre/modules/AsyncShutdown.jsm:747:23
-_wait@resource://gre/modules/AsyncShutdown.jsm:899:15
-wait@resource://gre/modules/AsyncShutdown.jsm:880:34
-observe@resource://gre/modules/AsyncShutdown.jsm:557:10
-
-console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
-console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
-1642568350141	geckodriver	INFO	Listening on 127.0.0.1:48605
-1642568350643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55247" "-no-remote" "-profile" "/tmp/rust_mozprofileaAQVQA"
-1642568351597	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaAQVQA/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:55247/devtools/browser/a71dddc8-cdf0-4023-a953-3d222171917e
-1642568354853	Marionette	INFO	Listening on port 39377
-1642568355013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&page=2&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&page=3&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&page=4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1642568401952	Marionette	INFO	Stopped listening on port 39377
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-[Parent 14966, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-BVyW0E/firefox-95.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
-1642570425063	geckodriver	INFO	Listening on 127.0.0.1:41017
-1642570425570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50799" "-no-remote" "-profile" "/tmp/rust_mozprofile1pFNFY"
-1642570426562	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1pFNFY/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:50799/devtools/browser/07e6d3c7-1ce2-467a-b9f1-8020e660a07c
-1642570430263	Marionette	INFO	Listening on port 43873
-1642570430358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642570434820	Marionette	INFO	Stopped listening on port 43873
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1642651530131	geckodriver	INFO	Listening on 127.0.0.1:60655
-1642651530619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37681" "-no-remote" "-profile" "/tmp/rust_mozprofileQzbb88"
-1642651532664	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQzbb88/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:37681/devtools/browser/309e77ee-fe81-438b-a8ac-da64a054bae5
-1642651536094	Marionette	INFO	Listening on port 45043
-1642651536175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642651539930	Marionette	INFO	Stopped listening on port 45043
-JavaScript error: https://www.amazon.com/s?k=ddr4&ref=nb_sb_noss_1&page=0, line 360: NS_ERROR_NOT_INITIALIZED: 
-JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1642651677669	geckodriver	INFO	Listening on 127.0.0.1:44091
-1642651678163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45093" "-no-remote" "-profile" "/tmp/rust_mozprofileKviXVe"
-1642651680609	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKviXVe/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:45093/devtools/browser/8cab93bd-a1ed-4c2c-aef0-1dd2ab834f4b
-1642651684210	Marionette	INFO	Listening on port 42137
-1642651684263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642651686167	Marionette	INFO	Stopped listening on port 42137
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1642651744664	geckodriver	INFO	Listening on 127.0.0.1:37491
-1642651745168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33395" "-no-remote" "-profile" "/tmp/rust_mozprofiledm1CD9"
-1642651774731	geckodriver	INFO	Listening on 127.0.0.1:52065
-1642651775232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59657" "-no-remote" "-profile" "/tmp/rust_mozprofileKWKniB"
-1642651778343	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKWKniB/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:59657/devtools/browser/996b2506-c1db-4b58-b281-4832d862d79e
-1642651783333	Marionette	INFO	Listening on port 34305
-1642651783496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642651784175	Marionette	INFO	Stopped listening on port 34305
-JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1642651912943	geckodriver	INFO	Listening on 127.0.0.1:34735
-1642651913438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37363" "-no-remote" "-profile" "/tmp/rust_mozprofileaRGvah"
-1642651915482	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaRGvah/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:37363/devtools/browser/8e85acc7-e832-4d81-b3cd-95ed5d9e8939
-1642651919494	Marionette	INFO	Listening on port 34387
-1642651919580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642651920436	Marionette	INFO	Stopped listening on port 34387
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1642651980045	geckodriver	INFO	Listening on 127.0.0.1:56477
-1642651980543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51171" "-no-remote" "-profile" "/tmp/rust_mozprofiledTOMMj"
-1642651982679	Marionette	INFO	Marionette enabled
-Exiting due to channel error.
-Exiting due to channel error.
-1642652038666	geckodriver	INFO	Listening on 127.0.0.1:33123
-1642652039171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55443" "-no-remote" "-profile" "/tmp/rust_mozprofilegMbKU7"
-1642652079570	geckodriver	INFO	Listening on 127.0.0.1:46211
-1642652080074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39707" "-no-remote" "-profile" "/tmp/rust_mozprofilel5fs3F"
-1642652111763	geckodriver	INFO	Listening on 127.0.0.1:55197
-1642652112265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58699" "-no-remote" "-profile" "/tmp/rust_mozprofileooeXiB"
-1642652165977	geckodriver	INFO	Listening on 127.0.0.1:50959
-1642652166053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43799" "-no-remote" "-profile" "/tmp/rust_mozprofileIJIh4T"
-1642652174961	geckodriver	INFO	Listening on 127.0.0.1:60757
-1642652175465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44147" "-no-remote" "-profile" "/tmp/rust_mozprofiletYmCCX"
-1642652177576	Marionette	INFO	Marionette enabled
-Exiting due to channel error.
-Exiting due to channel error.
-1642652234947	geckodriver	INFO	Listening on 127.0.0.1:35077
-1642652235445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50479" "-no-remote" "-profile" "/tmp/rust_mozprofilev1sT3j"
-1642652261908	geckodriver	INFO	Listening on 127.0.0.1:42641
-1642652262412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49491" "-no-remote" "-profile" "/tmp/rust_mozprofileWJxuWo"
-1642652265213	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWJxuWo/search.json.mozlz4", (void 0)))
-1642652282632	geckodriver	INFO	Listening on 127.0.0.1:47215
-1642652283139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59043" "-no-remote" "-profile" "/tmp/rust_mozprofilenEkdXJ"
-1642652338387	geckodriver	INFO	Listening on 127.0.0.1:34389
-1642652338891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49065" "-no-remote" "-profile" "/tmp/rust_mozprofileIZS3Qp"
-1642652496894	geckodriver	INFO	Listening on 127.0.0.1:53403
-1642652497397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47351" "-no-remote" "-profile" "/tmp/rust_mozprofileWcye00"
-1642652717566	geckodriver	INFO	Listening on 127.0.0.1:59867
-1642652718068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47609" "-no-remote" "-profile" "/tmp/rust_mozprofilel6GVfd"
-1642652795020	geckodriver	INFO	Listening on 127.0.0.1:44351
-1642652795525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52189" "-no-remote" "-profile" "/tmp/rust_mozprofileik2DFn"
-1642652904057	geckodriver	INFO	Listening on 127.0.0.1:54269
-1642652904566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50161" "-no-remote" "-profile" "/tmp/rust_mozprofilehX4Iav"
-1642652983924	geckodriver	INFO	Listening on 127.0.0.1:34483
-1642652984428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58421" "-no-remote" "-profile" "/tmp/rust_mozprofilect48Ja"
-1642653020302	geckodriver	INFO	Listening on 127.0.0.1:45813
-1642653020807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40633" "-no-remote" "-profile" "/tmp/rust_mozprofilesLD00Q"
-1642653061000	geckodriver	INFO	Listening on 127.0.0.1:52315
-1642653061504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55019" "-no-remote" "-profile" "/tmp/rust_mozprofileIsWtBl"
-1642653156083	geckodriver	INFO	Listening on 127.0.0.1:47615
-1642653156585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58183" "-no-remote" "-profile" "/tmp/rust_mozprofilePzAFuQ"
-1642653226274	geckodriver	INFO	Listening on 127.0.0.1:39139
-1642653226775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59083" "-no-remote" "-profile" "/tmp/rust_mozprofilerLqaEQ"
-1642653250169	geckodriver	INFO	Listening on 127.0.0.1:54543
-1642653250670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53673" "-no-remote" "-profile" "/tmp/rust_mozprofilea2rTXP"
-1642653266577	geckodriver	INFO	Listening on 127.0.0.1:52631
-1642653267075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45603" "-no-remote" "-profile" "/tmp/rust_mozprofileUG5s9h"
-1642653269200	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUG5s9h/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:45603/devtools/browser/1cf01cac-30dd-44d2-90d8-1c6fb5ef9578
-1642653273022	Marionette	INFO	Listening on port 46173
-1642653273182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642653274330	Marionette	INFO	Stopped listening on port 46173
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1642653343898	geckodriver	INFO	Listening on 127.0.0.1:50613
-1642653344403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53347" "-no-remote" "-profile" "/tmp/rust_mozprofileTANWlM"
-1642653384845	geckodriver	INFO	Listening on 127.0.0.1:53261
-1642653384870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57235" "-no-remote" "-profile" "/tmp/rust_mozprofilemidpu8"
-1642653397207	geckodriver	INFO	Listening on 127.0.0.1:43257
-1642653397713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42805" "-no-remote" "-profile" "/tmp/rust_mozprofile4mgqQ3"
-1642653669013	geckodriver	INFO	Listening on 127.0.0.1:35857
-1642653669025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53527" "-no-remote" "-profile" "/tmp/rust_mozprofile8Cl4u2"
-1642653910529	geckodriver	INFO	Listening on 127.0.0.1:47301
-1642653911027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41327" "-no-remote" "-profile" "/tmp/rust_mozprofileCP7BFb"
-1642653967366	geckodriver	INFO	Listening on 127.0.0.1:37429
-1642653967869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57111" "-no-remote" "-profile" "/tmp/rust_mozprofileEwqkE5"
-1642654623897	geckodriver	INFO	Listening on 127.0.0.1:55447
-1642654624401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58399" "-no-remote" "-profile" "/tmp/rust_mozprofilepto7Ar"
-1642654626592	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepto7Ar/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:58399/devtools/browser/fc5f8b82-5b90-4ba0-88b5-244de1c3d5be
-1642654630838	Marionette	INFO	Listening on port 44023
-1642654630946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642654631434	Marionette	INFO	Stopped listening on port 44023
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1642654684227	geckodriver	INFO	Listening on 127.0.0.1:53517
-1642654684729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58715" "-no-remote" "-profile" "/tmp/rust_mozprofileMLgryX"
-1642656532303	geckodriver	INFO	Listening on 127.0.0.1:47647
-1642656532806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44865" "-no-remote" "-profile" "/tmp/rust_mozprofileMzLCu5"
-1642656538083	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMzLCu5/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:44865/devtools/browser/9e7527b0-73ff-4d67-a5d4-9e74022e3009
-1642656542159	Marionette	INFO	Listening on port 36745
-1642656542197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642656584081	geckodriver	INFO	Listening on 127.0.0.1:46119
-1642656584583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40537" "-no-remote" "-profile" "/tmp/rust_mozprofileysPgTv"
-1642656586744	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileysPgTv/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:40537/devtools/browser/7ed74fc0-a26c-4d83-bab0-582400046916
-1642656590273	Marionette	INFO	Listening on port 46153
-1642656590387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1642656616315	Marionette	INFO	Stopped listening on port 46153
-1642656730981	Marionette	INFO	Stopped listening on port 36745
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1642691015861	geckodriver	INFO	Listening on 127.0.0.1:45119
-1642691016363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46411" "-no-remote" "-profile" "/tmp/rust_mozprofilenZOgtD"
-1642691018978	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenZOgtD/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:46411/devtools/browser/b0fbdeeb-50b8-4b6e-b27f-caa3725b6f6c
-1642691022910	Marionette	INFO	Listening on port 36819
-1642691022962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr4&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1642691032327	Marionette	INFO	Stopped listening on port 36819
-JavaScript error: about:srcdoc, line 11: TypeError: parent is null
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1642694324008	geckodriver	INFO	Listening on 127.0.0.1:43041
-1642694324506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41327" "-no-remote" "-profile" "/tmp/rust_mozprofileA2UeUY"
-1642694326504	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA2UeUY/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:41327/devtools/browser/2036d2cb-75a6-4055-ab6f-aa0fb4291bef
-1642694330041	Marionette	INFO	Listening on port 42775
-1642694330133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-libEGL warning: DRI2: failed to authenticate
-ATTENTION: default value of option mesa_glthread overridden by environment.
-JavaScript warning: https://www.amazon.com/s?k=ram+ddr5&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1642694340903	Marionette	INFO	Stopped listening on port 42775
-1642695964332	geckodriver	INFO	Listening on 127.0.0.1:56439
-1642695964834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36775" "-no-remote" "-profile" "/tmp/rust_mozprofile8Lr9f8"
-1642695966915	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8Lr9f8/search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:36775/devtools/browser/92a44b56-c484-49ed-a62e-8085b90ca9c4
-1642695970355	Marionette	INFO	Listening on port 38959
-1642695970476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1642695975496	Marionette	INFO	Stopped listening on port 38959
-Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
-getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
-
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
