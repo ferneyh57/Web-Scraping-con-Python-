@@ -13,3 +13,7 @@ virtualenv venv (Puede ser remplazado por el nombre de preferencia)
  pip install requirements.txt
 
  python app.py
+
+ Se ingresa el nombre del producto (Ejemplo: Ram ddr4 8gb)
+
+ Se ingresa el numero de paginas deseadas (Segun la paginacion de amazon)
