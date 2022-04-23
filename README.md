@@ -10,7 +10,9 @@ pip install virtualenv
 
 virtualenv venv (Puede ser remplazado por el nombre de preferencia)
 
- source /venv/Scripts/activate
+ source /venv/Scripts/activate (linux)
+ 
+ .\venv\Scripts\activate (windows)
 
  pip install requirements.txt
 
